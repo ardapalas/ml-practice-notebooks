@@ -1,6 +1,6 @@
 # ML Practice Notebooks
 
-Classical ML notebooks (classification, regression, EDA) using scikit-learn across various public datasets.
+Classical ML notebooks (classification, regression, EDA) using scikit-learn, pytorch across various public datasets.
 
 | Notebook | Task | Dataset |
 |---|---|---|
